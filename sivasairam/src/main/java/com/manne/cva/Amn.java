@@ -12,7 +12,7 @@ public class Amn {
 WebDriver d;
 	
 	
-	
+	///// this comment is fro testing the git hub cofig
 	@BeforeMethod
 	
 	public void mai() {
